@@ -10,3 +10,7 @@
 ## react-i18n-demo
 
 用于实现项目的国际化
+
+## react-antd-rematch
+
+使用 rematch 代替 redux
