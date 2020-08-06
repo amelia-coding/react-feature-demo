@@ -7,9 +7,13 @@
 
 用于实现一些 hook 功能
 
+封装 table 组件，内部自定义了三个 hook，useFetch（loading，params，data）, usePagination(pagination),useRowSelection(selectedList，selectedRowKeys)
+
 ## react-i18n-demo
 
 用于实现项目的国际化
+
+封装国际化组件 I18nProvider，useI18n 通过 useContext 获取国际化的内容
 
 ## react-antd-rematch
 
